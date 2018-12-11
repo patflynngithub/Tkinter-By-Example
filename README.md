@@ -1,3 +1,5 @@
+NOT MY PROJECT. FORKED FROM ANOTHER GITHUB ACCOUNT.
+
 # Learn Tkinter By Example
 Learn Tkinter By Example - a free book for learning tkinter, complete with full source code.
 
